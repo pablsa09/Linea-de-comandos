@@ -1,0 +1,138 @@
+Script iniciado en 2022-02-05 16:10:06+01:00 [TERM="xterm-256color" TTY="/dev/pts/54" COLUMNS="183" LINES="38"]
+]0;pablsa09@simba: ~[01;32mpablsa09@simba[00m:[01;34m~[00m$ git clone /srv/git/prpa
+Clonando en 'prpa'...
+hecho.
+]0;pablsa09@simba: ~[01;32mpablsa09@simba[00m:[01;34m~[00m$ cd prpa
+]0;pablsa09@simba: ~/prpa[01;32mpablsa09@simba[00m:[01;34m~/prpa[00m$ touch datos_13.txt
+]0;pablsa09@simba: ~/prpa[01;32mpablsa09@simba[00m:[01;34m~/prpa[00m$ git add datos_13.txt 
+]0;pablsa09@simba: ~/prpa[01;32mpablsa09@simba[00m:[01;34m~/prpa[00m$ git push
+Everything up-to-date
+]0;pablsa09@simba: ~/prpa[01;32mpablsa09@simba[00m:[01;34m~/prpa[00m$ ls -la
+total 256
+drwxrwxr-x 12 pablsa09 pablsa09   4096 feb  5 16:11 [0m[01;34m.[0m
+drwxr-xr-x 10 pablsa09 pablsa09   4096 feb  5 16:10 [01;34m..[0m
+drwxrwxr-x  2 pablsa09 pablsa09   4096 feb  5 16:10 [01;34mauto[0m
+-rw-rw-r--  1 pablsa09 pablsa09      0 feb  5 16:10 datos_03.txt
+-rw-rw-r--  1 pablsa09 pablsa09     29 feb  5 16:10 datos_05.txt
+-rw-rw-r--  1 pablsa09 pablsa09      6 feb  5 16:10 datos_07.txt
+-rw-rw-r--  1 pablsa09 pablsa09      0 feb  5 16:11 datos_13.txt
+-rw-rw-r--  1 pablsa09 pablsa09      0 feb  5 16:10 datos_14.txt
+drwxrwxr-x  4 pablsa09 pablsa09   4096 feb  5 16:10 [01;34mejemplos[0m
+drwxrwxr-x  2 pablsa09 pablsa09   4096 feb  5 16:10 [01;34mejercicios[0m
+-rw-rw-r--  1 pablsa09 pablsa09  64390 feb  5 16:10 [01;35mescudo.png[0m
+drwxrwxr-x  2 pablsa09 pablsa09   4096 feb  5 16:10 [01;34mestilo[0m
+drwxrwxr-x  4 pablsa09 pablsa09   4096 feb  5 16:10 [01;34mexamenes[0m
+drwxrwxr-x  8 pablsa09 pablsa09   4096 feb  5 16:11 [01;34m.git[0m
+drwxrwxr-x  3 pablsa09 pablsa09   4096 feb  5 16:10 [01;34mipython[0m
+-rw-rw-r--  1 pablsa09 pablsa09    248 feb  5 16:10 just_ene.aux
+-rw-rw-r--  1 pablsa09 pablsa09   9261 feb  5 16:10 just_ene.log
+-rw-rw-r--  1 pablsa09 pablsa09 112327 feb  5 16:10 just_ene.pdf
+-rw-rw-r--  1 pablsa09 pablsa09   2790 feb  5 16:10 [01;31mjust_ene.synctex.gz[0m
+-rw-rw-r--  1 pablsa09 pablsa09   2287 feb  5 16:10 just_ene.tex
+drwxrwxr-x  4 pablsa09 pablsa09   4096 feb  5 16:10 [01;34mnotebook[0m
+drwxrwxr-x  5 pablsa09 pablsa09   4096 feb  5 16:10 [01;34mpracticas[0m
+drwxrwxr-x  2 pablsa09 pablsa09   4096 feb  5 16:10 [01;34mproblemas[0m
+]0;pablsa09@simba: ~/prpa[01;32mpablsa09@simba[00m:[01;34m~/prpa[00m$ cd exx[Kamenes/[K
+]0;pablsa09@simba: ~/prpa/examenes[01;32mpablsa09@simba[00m:[01;34m~/prpa/examenes[00m$ ls
+[0m[01;34menero_2018[0m  [01;34mfeb[0m
+]0;pablsa09@simba: ~/prpa/examenes[01;32mpablsa09@simba[00m:[01;34m~/prpa/examenes[00m$ cd ..
+]0;pablsa09@simba: ~/prpa[01;32mpablsa09@simba[00m:[01;34m~/prpa[00m$ rm -r just*
+]0;pablsa09@simba: ~/prpa[01;32mpablsa09@simba[00m:[01;34m~/prpa[00m$ cp -r ejemplos ejepmlos_new
+]0;pablsa09@simba: ~/prpa[01;32mpablsa09@simba[00m:[01;34m~/prpa[00m$ cd ejemplos_new[K[K[K[K[K[K[K[K[Kpmplos_[C[K[K[K[K[K[Kmlos_new/[K
+]0;pablsa09@simba: ~/prpa/ejepmlos_new[01;32mpablsa09@simba[00m:[01;34m~/prpa/ejepmlos_new[00m$ cp /home/pab
+pablal05/ pablsa09/ pabmaldo/ pabmar23/ pabmun02/ 
+]0;pablsa09@simba: ~/prpa/ejepmlos_new[01;32mpablsa09@simba[00m:[01;34m~/prpa/ejepmlos_new[00m$ cp /home/pablsa09/prpa/escudo.png /home/pablsa09/prpa/ejemplos/escudo.png
+]0;pablsa09@simba: ~/prpa/ejepmlos_new[01;32mpablsa09@simba[00m:[01;34m~/prpa/ejepmlos_new[00m$ cp /home/pablsa09/prpa/escudo.png /home/pablsa09/prpa/ejemplos/escudo.png[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kescudo.png
+]0;pablsa09@simba: ~/prpa/ejepmlos_new[01;32mpablsa09@simba[00m:[01;34m~/prpa/ejepmlos_new[00m$ cd ..
+]0;pablsa09@simba: ~/prpa[01;32mpablsa09@simba[00m:[01;34m~/prpa[00m$ rm -r ejepmlos_new/[K
+]0;pablsa09@simba: ~/prpa[01;32mpablsa09@simba[00m:[01;34m~/prpa[00m$ find -name "*py" | w[Kxargs -I{} grep "radius" {}
+def circle(radius):
+    Function that computes the surface of a circle given its radius.
+    radius: float
+      The radius of the circle
+    return math.pi * radius**2
+]0;pablsa09@simba: ~/prpa[01;32mpablsa09@simba[00m:[01;34m~/prpa[00m$ ls | find -nae[Kme "*tex"
+./estilo/estilo.tex
+./ejercicios/hoja3.tex
+./ejercicios/hoja4.tex
+./practicas/p2/Informatica2017-2018_Practica2.tex
+./practicas/p0/datosAsignatura.tex
+./practicas/p0/practica_0_domino.tex
+./practicas/p1/datosAsignatura.tex
+./practicas/p1/practica_1_ajedrez.tex
+./problemas/datosAsignatura.tex
+./problemas/hoja1.tex
+./problemas/hoja3.tex
+./problemas/hoja2.tex
+./examenes/feb/curso2016/feb2016.tex
+./examenes/feb/codigos_simon.tex
+./examenes/feb/ene2018.tex
+./examenes/feb/ene2017_simon.tex
+./examenes/feb/codigos_2018.tex
+]0;pablsa09@simba: ~/prpa[01;32mpablsa09@simba[00m:[01;34m~/prpa[00m$ du -smh | sort -nr
+28M	.
+]0;pablsa09@simba: ~/prpa[01;32mpablsa09@simba[00m:[01;34m~/prpa[00m$ du -smh | sort -nr[1@*[1@ 
+500K	ipython
+484K	practicas
+176K	ejemplos
+104K	estilo
+64K	escudo.png
+20K	problemas
+12K	ejercicios
+12K	auto
+7,2M	notebook
+4,0K	datos_07.txt
+4,0K	datos_05.txt
+1,9M	examenes
+0	datos_14.txt
+0	datos_13.txt
+0	datos_03.txt
+]0;pablsa09@simba: ~/prpa[01;32mpablsa09@simba[00m:[01;34m~/prpa[00m$ rm -r ipython/[K
+]0;pablsa09@simba: ~/prpa[01;32mpablsa09@simba[00m:[01;34m~/prpa[00m$ cd examenes/[K
+]0;pablsa09@simba: ~/prpa/examenes[01;32mpablsa09@simba[00m:[01;34m~/prpa/examenes[00m$ cd feb/[K
+]0;pablsa09@simba: ~/prpa/examenes/feb[01;32mpablsa09@simba[00m:[01;34m~/prpa/examenes/feb[00m$ head -n20 ene2018.tex
+\documentclass[10pt]{examdesign}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\selectlanguage{spanish}
+\usepackage{listings}
+\usepackage[margin=1in]{geometry}
+\usepackage{enumerate}
+
+\lstset{
+  language=Python,
+  frame=single,
+  basicstyle=\sffamily,
+  showstringspaces=false
+  %basicstyle=\ttfamily,
+}
+
+\NumberOfVersions{4} %Poner a 2 en la versión final
+\NoRearrange % Eliminar para generar el examen definitivo
+\ContinuousNumbering
+\IncludeFromFile{codigos_2018.tex}
+]0;pablsa09@simba: ~/prpa/examenes/feb[01;32mpablsa09@simba[00m:[01;34m~/prpa/examenes/feb[00m$ head -n20 ene2018.tex[C[1P[1P[1P[1P[1@t[1@a[1@i[1@l
+\lstinline{\"la\"}, \lstinline{\"mancha\"}, \lstinline{\"de\"}, \lstinline{\"cuyo\"} y \lstinline{\"nombre\"}.
+Para distinguir si un carácter es una letra o un signo de puntuación o separador puedes suponer definida la siguiente función:
+  \InsertChunk{def_is_letter}
+
+Escribe una función en Python que dada una cadena de caracteres devuelva la lista de las palabras que contiene.
+
+
+  \end{question}
+
+
+
+
+\end{shortanswer}
+
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
+]0;pablsa09@simba: ~/prpa/examenes/feb[01;32mpablsa09@simba[00m:[01;34m~/prpa/examenes/feb[00m$ /home/pablsa09/prpa/examenes[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd /home/pablsa09/prpa
+]0;pablsa09@simba: ~/prpa[01;32mpablsa09@simba[00m:[01;34m~/prpa[00m$ exit
+
+Script terminado en 2022-02-05 16:20:39+01:00 [CÓDIGO_SALIDA_ORDEN="0"]
